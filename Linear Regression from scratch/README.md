@@ -1,2 +1,2 @@
-#Linear Regression from scratch
+# Linear Regression from scratch
 The code is about Linear Regression from scratch. It does not use already existing model from sklearn. It has various method in class Linear Regression. The dats is 1000 random generated numbers for Linear Regression using make_Regression function. The data is further divided into training and testing set with test size 20% of data. It has various methods from initializing parameters to fitting the data. RMSE(Root Mean Squared Error) is calculated at the end. And a graph is plotted with all training and testing data points and the linear regression line is also plotted. 
